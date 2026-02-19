@@ -7,7 +7,7 @@ projects:
   - name: code-assistant-sandbox
     git:
       remotes:
-        origin: https://github.com/cgruver/code-assistant-sandbox.git
+        origin: https://github.com/maschind/code-assistant-sandbox.git
       checkoutFrom:
         remote: origin
         revision: main
